@@ -11,6 +11,7 @@
            Altair
            Geopandas
            Ngrok
+https://github.com/gonhonoria/Covid_West_Africa/blob/master/demo.png
 
 ## How to use it?
 
