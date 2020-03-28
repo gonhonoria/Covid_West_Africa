@@ -26,7 +26,7 @@ img: https://github.com/gonhonoria/Covid_West_Africa/blob/master/demo.png
 
    Please note that it is only available for few hours
 
-      https://525b1cb0.ngrok.io/
+       http://f367c794.ngrok.io
 
 ## Contributions
    Any contribution to improve the present work is welcomed.
